@@ -1,0 +1,113 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+form {
+    border-radius: 2px;
+    border-left: none;
+    border-right: none;
+    border-top: 8px solid rgb(139, 77, 253);
+    border-bottom: 8px solid rgb(139, 77, 253);
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.ssdd {
+    width: 500px;
+    max-width: 90%;
+}
+
+
+.asdfa {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    position: fixed;
+    background-color:  #b19cd9;
+
+}
+
+
+
+
+
+
+.sffvdffg {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    font-size: 30px;
+    font-weight: 900;
+    color: aliceblue;
+}
+
+
+
+.form-group label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.gfh {
+    text-align:start;
+    width: 100%;
+    margin-left: 9px;
+}
+
+.input-group-text {
+    width: 100%;
+}
+
+.fddf {
+    color: aliceblue;
+    margin-left: 4px;
+    
+}
+
+.asdsdasjfg {
+    height: 40px;
+    width: 90%;
+    background-color: rgb(255, 100, 255);
+    border-radius: 10px;
+    border: none;
+    transition: 0.3s;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.asdsdasjfg:hover {
+    background-color: rgb(255, 149, 246) ;
+}
+
+.asdsdasjfg:focus{
+    outline: none;
+    
+}
+
+.asdsdasjfg:active {
+    background-color: rgb(250, 109, 255);
+
+}
+
+.submitb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.afvd {
+    height: 20px;
+}
+
+.afdsfsdfsd {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+
+}
+
